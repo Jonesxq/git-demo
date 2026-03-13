@@ -1,3 +1,3 @@
 "hello git" 
 "这是我加上的第二行" 
-"ke zai wo xin di de ming zi" 
+这是 bugfix 专属的修复代码！
